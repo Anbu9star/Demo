@@ -5,4 +5,7 @@ class Demo{
 	static{
 		System.out.println("This from static block");
 	}
+	static void m1(){
+		System.out.println("This from static method");
+	}
 }
